@@ -2,7 +2,6 @@
 __pycache__/
 *.pyc
 *.pyo
-*.pyd
 
 # Virtual Environment
 venv/
@@ -14,13 +13,13 @@ Dataset/
 # Trainer
 Trainer/
 
+# Input Images
+Input_Images/*
+!Input_Images/.gitkeep
+
 # VS Code
 .vscode/
 
 # System files
 .DS_Store
 Thumbs.db
-
-Input_Image/
-Dataset/
-Trainer/
