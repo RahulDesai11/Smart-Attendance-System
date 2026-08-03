@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+
+# Dataset
+Dataset/
+
+# Trainer
+Trainer/
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
